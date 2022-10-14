@@ -16,7 +16,7 @@ landingContent:
   # Card
   - title: Windows
     linkLists:
-      - linkListType: overview
+      - linkListType: overviewnosiema
         links:
           - text: Install PowerShell on Windows
             url: Installing-PowerShell-on-Windows.md
